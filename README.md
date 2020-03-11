@@ -4,4 +4,4 @@
 
 ## 说明
 * 本仓库对该书的主要章节的翻译已经完成，可参考学习。
-* 本书已有中文翻译版，有需要的同学也可以购买学习《[物联网渗透技术](https://item.jd.com/12623610.html)》
+* 本书已有中文翻译版，有需要的同学也可以购买学习《[物联网渗透测试 [IoT Penetration Testing Cookbook]](https://item.jd.com/12623610.html)》
